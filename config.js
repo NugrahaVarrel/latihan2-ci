@@ -1,1 +1,0 @@
-// const AWS _KEY = 'AKITA1234567890123456';
